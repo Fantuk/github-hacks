@@ -1,0 +1,3 @@
+pull_request_template:
+  - PULL_REQUEST_TEMPLATE/draft_pull_request_template.md
+  - PULL_REQUEST_TEMPLATE/pull_request_template.md
